@@ -1,7 +1,6 @@
 # Ohjelmistosuunnittelumalli: Prototype
 
 Tero Maakivi  
-2407546  
 AIC24SP
 
 ## Ohjelmistosuunnittelumalli: Prototype esimerkkikoodeja
